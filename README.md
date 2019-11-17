@@ -3,11 +3,11 @@
 Collection of variational autoencoder models, e.g. VAE, CVAE, InfoVAE, MMDVAE in Tensorflow.  
 
 ## How to use?
-- Command 1: `python train.py train`  
-- Command 2: `python train.py generate`  
-- Command 3: `python train.py generate path/to/image`  
+- Command 1: `python train.py vae_model_name train`  
+- Command 2: `python train.py vae_model_name generate`  
+- Command 3: `python train.py vae_model_name generate path/to/image`  
 
-Note: Generated samples will be stored in `images/{ae_model}/` directory during training.
+Note: Generated samples will be stored in `images/{vae_model}/` directory during training.
 
 ## Variational Autoencoders
 
@@ -31,7 +31,7 @@ We did not mean to implement what have been described in each paper.
 #### Results for MNIST
 The following results can be reproduced with command:  
 ```
-python train.py name_of_vae train
+python train.py vae_model_name train
 ```
 Note: 1st and 3rd rows represent the ground truth whereas the 2nd and 4th rows are the generated ones.
 
@@ -42,7 +42,7 @@ CVAE | <img src='./images/CVAE/grid_1.png' height='150px'> | <img src='./images/
 
 *Name* | *Epoch 1* | *Epoch 2* | *Epoch 3*
 :---: | :---: | :---: | :---: |
-InfoVAE | <img src='./images/infoVAE/grid_1.png' height='150px'> | <img src='./images/infoVAE/grid_2.png' height='150px'> | <img src='./images/infoVAE/grid_3.png' height='150px'>
+InfoVAE | <img src='./images/InfoVAE/grid_1.png' height='150px'> | <img src='./images/InfoVAE/grid_2.png' height='150px'> | <img src='./images/InfoVAE/grid_3.png' height='150px'>
 MMDVAE | <img src='./images/MMDVAE/grid_1.png' height='150px'> | <img src='./images/MMDVAE/grid_2.png' height='150px'> | <img src='./images/MMDVAE/grid_3.png' height='150px'>
 
 ## Dependencies
