@@ -42,7 +42,7 @@ CVAE | <img src='./images/CVAE/grid_1.png' height='150px'> | <img src='./images/
 
 *Name* | *Epoch 1* | *Epoch 2* | *Epoch 3*
 :---: | :---: | :---: | :---: |
-InfoVAE | <img src='./images/InfoVAE/grid_1.png' height='150px'> | <img src='./images/InfoVAE/grid_2.png' height='150px'> | <img src='./images/InfoVAE/grid_3.png' height='150px'>
+InfoVAE | <img src='./images/infoVAE/grid_1.png' height='150px'> | <img src='./images/infoVAE/grid_2.png' height='150px'> | <img src='./images/infoVAE/grid_3.png' height='150px'>
 MMDVAE | <img src='./images/MMDVAE/grid_1.png' height='150px'> | <img src='./images/MMDVAE/grid_2.png' height='150px'> | <img src='./images/MMDVAE/grid_3.png' height='150px'>
 
 ## Dependencies
