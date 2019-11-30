@@ -28,11 +28,11 @@ We did not mean to implement what have been described in each paper.
 	- [Information Maximizing Variational Autoencoders, 2017](https://arxiv.org/abs/1706.02262)  
 	<img src='./figures/architectures/MMDVAE_architecture.png' width='500px' height='200px'>
 
-*VAE* | *Loss Function*
+*Model* | *Loss Function*
 :---: | :--- |
 **VAE** 	| <img src='./figures/equations/VAE_loss.png' height='25px'>
 **CVAE**	| <img src='./figures/equations/CVAE_loss.png' height='25px'>
-**infoVAE**	| <img src='./figures/equations/infoVAE_loss.png' height='25px'>
+**InfoVAE**	| <img src='./figures/equations/infoVAE_loss.png' height='25px'>
 **MMDVAE**	| <img src='./figures/equations/MMDVAE_loss.png' height='25px'>
 
 #### Results for MNIST
