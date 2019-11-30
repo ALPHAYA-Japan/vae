@@ -23,7 +23,7 @@ We did not mean to implement what have been described in each paper.
 	<img src='./figures/architectures/CVAE_architecture.png' width='500px' height='200px'>
 - InfoVAE: Information Variational Autoencoder
 	- [Information Maximizing Variational Autoencoders, 2017](https://arxiv.org/abs/1706.02262)  
-	<img src='./figures/architectures/infoVAE_architecture.png' width='500px' height='200px'>
+	<img src='./figures/architectures/InfoVAE_architecture.png' width='500px' height='200px'>
 - MMDVAE: Maximum-Mean Discrepancy Variational AutoEncoder
 	- [Information Maximizing Variational Autoencoders, 2017](https://arxiv.org/abs/1706.02262)  
 	<img src='./figures/architectures/MMDVAE_architecture.png' width='500px' height='200px'>
@@ -32,7 +32,7 @@ We did not mean to implement what have been described in each paper.
 :---: | :--- |
 **VAE** 	| <img src='./figures/equations/VAE_loss.png' height='25px'>
 **CVAE**	| <img src='./figures/equations/CVAE_loss.png' height='25px'>
-**InfoVAE**	| <img src='./figures/equations/infoVAE_loss.png' height='25px'>
+**InfoVAE**	| <img src='./figures/equations/InfoVAE_loss.png' height='25px'>
 **MMDVAE**	| <img src='./figures/equations/MMDVAE_loss.png' height='25px'>
 
 #### Results for MNIST
